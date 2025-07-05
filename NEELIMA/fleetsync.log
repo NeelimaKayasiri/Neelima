@@ -1,0 +1,392 @@
+2025-07-05 13:05:42,018 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-05 13:05:42,021 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-05 13:05:42,023 - INFO -  * Restarting with stat
+2025-07-05 13:05:46,815 - WARNING -  * Debugger is active!
+2025-07-05 13:05:46,819 - INFO -  * Debugger PIN: 693-374-623
+2025-07-05 13:16:35,691 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-05 13:16:35,692 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-05 13:16:35,693 - INFO -  * Restarting with stat
+2025-07-05 13:16:40,479 - WARNING -  * Debugger is active!
+2025-07-05 13:16:40,483 - INFO -  * Debugger PIN: 693-374-623
+2025-07-05 13:16:40,671 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:40] "GET / HTTP/1.1" 200 -
+2025-07-05 13:16:40,684 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:40] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:16:40,694 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:40] "[33mGET /static/images/background.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:40,745 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-05 13:16:42,645 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:42] "GET /pickles HTTP/1.1" 200 -
+2025-07-05 13:16:42,660 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:42] "[33mGET /static/images/gongura.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:42,663 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:42] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:16:42,672 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:42] "[33mGET /static/images/lemon.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:42,677 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:42] "[33mGET /static/images/chili.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:42,712 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:42] "[33mGET /static/images/chicken.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:42,723 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:42] "[33mGET /static/images/prawn.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:44,590 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:44] "GET /snacks HTTP/1.1" 200 -
+2025-07-05 13:16:44,605 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:44] "[33mGET /static/images/murukulu.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:44,631 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:44] "[33mGET /static/images/mixture.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:44,644 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:44] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:16:44,660 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:44] "[33mGET /static/images/kajikaya.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:44,685 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:44] "[33mGET /static/images/chekalu.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:44,712 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:44] "[33mGET /static/images/boondi.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:44,761 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:44] "[33mGET /static/images/chekodi.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:46,345 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:46] "GET /snacks HTTP/1.1" 200 -
+2025-07-05 13:16:46,369 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:46] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:16:46,384 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:46] "[33mGET /static/images/murukulu.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:46,490 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:46] "[33mGET /static/images/mixture.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:46,495 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:46] "[33mGET /static/images/kajikaya.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:46,500 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:46] "[33mGET /static/images/chekalu.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:46,509 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:46] "[33mGET /static/images/boondi.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:46,593 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:46] "[33mGET /static/images/chekodi.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:47,787 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:47] "GET /cart HTTP/1.1" 200 -
+2025-07-05 13:16:47,804 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:47] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:16:49,272 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:49] "GET /checkout HTTP/1.1" 200 -
+2025-07-05 13:16:54,269 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:54] "GET / HTTP/1.1" 200 -
+2025-07-05 13:16:54,288 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:54] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:16:54,321 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:54] "[33mGET /static/images/background.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:56,183 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:56] "GET /login HTTP/1.1" 200 -
+2025-07-05 13:16:56,237 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:56] "[33mGET /static/images/backgroundhome.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:16:58,443 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:58] "GET /register HTTP/1.1" 200 -
+2025-07-05 13:16:58,461 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:58] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:16:58,505 - INFO - 127.0.0.1 - - [05/Jul/2025 13:16:58] "[33mGET /static/images/backgroundhome2.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:17:39,190 - INFO - 127.0.0.1 - - [05/Jul/2025 13:17:39] "GET / HTTP/1.1" 200 -
+2025-07-05 13:17:39,201 - INFO - 127.0.0.1 - - [05/Jul/2025 13:17:39] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:17:39,234 - INFO - 127.0.0.1 - - [05/Jul/2025 13:17:39] "[33mGET /static/images/background.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:17:41,933 - INFO - 127.0.0.1 - - [05/Jul/2025 13:17:41] "GET / HTTP/1.1" 200 -
+2025-07-05 13:17:41,958 - INFO - 127.0.0.1 - - [05/Jul/2025 13:17:41] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:17:41,968 - INFO - 127.0.0.1 - - [05/Jul/2025 13:17:41] "[33mGET /static/images/background.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:18:10,073 - INFO - 127.0.0.1 - - [05/Jul/2025 13:18:10] "GET / HTTP/1.1" 200 -
+2025-07-05 13:18:10,088 - INFO - 127.0.0.1 - - [05/Jul/2025 13:18:10] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:18:10,105 - INFO - 127.0.0.1 - - [05/Jul/2025 13:18:10] "[33mGET /static/images/background.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:18:36,353 - INFO - 127.0.0.1 - - [05/Jul/2025 13:18:36] "GET / HTTP/1.1" 200 -
+2025-07-05 13:18:36,365 - INFO - 127.0.0.1 - - [05/Jul/2025 13:18:36] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:18:36,402 - INFO - 127.0.0.1 - - [05/Jul/2025 13:18:36] "[33mGET /static/images/background.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:19:28,848 - INFO - 127.0.0.1 - - [05/Jul/2025 13:19:28] "GET /about HTTP/1.1" 200 -
+2025-07-05 13:19:28,889 - INFO - 127.0.0.1 - - [05/Jul/2025 13:19:28] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:20:48,320 - INFO - 127.0.0.1 - - [05/Jul/2025 13:20:48] "GET /cart HTTP/1.1" 200 -
+2025-07-05 13:20:48,351 - INFO - 127.0.0.1 - - [05/Jul/2025 13:20:48] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:21:38,161 - INFO - 127.0.0.1 - - [05/Jul/2025 13:21:38] "GET /cart HTTP/1.1" 200 -
+2025-07-05 13:21:38,364 - INFO - 127.0.0.1 - - [05/Jul/2025 13:21:38] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:21:40,116 - INFO - 127.0.0.1 - - [05/Jul/2025 13:21:40] "GET /checkout HTTP/1.1" 200 -
+2025-07-05 13:22:50,343 - INFO - 127.0.0.1 - - [05/Jul/2025 13:22:50] "[35m[1mGET /contact HTTP/1.1[0m" 500 -
+2025-07-05 13:22:50,983 - INFO - 127.0.0.1 - - [05/Jul/2025 13:22:50] "GET /contact?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-07-05 13:22:50,986 - INFO - 127.0.0.1 - - [05/Jul/2025 13:22:50] "GET /contact?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-07-05 13:22:51,193 - INFO - 127.0.0.1 - - [05/Jul/2025 13:22:51] "GET /contact?__debugger__=yes&cmd=resource&f=console.png&s=JoRM6cJ2LgO4sMSmz5A1 HTTP/1.1" 200 -
+2025-07-05 13:22:51,210 - INFO - 127.0.0.1 - - [05/Jul/2025 13:22:51] "GET /contact?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-07-05 13:23:17,653 - INFO - 127.0.0.1 - - [05/Jul/2025 13:23:17] "GET /contact HTTP/1.1" 200 -
+2025-07-05 13:24:29,270 - INFO - 127.0.0.1 - - [05/Jul/2025 13:24:29] "GET /login HTTP/1.1" 200 -
+2025-07-05 13:24:29,297 - INFO - 127.0.0.1 - - [05/Jul/2025 13:24:29] "[33mGET /static/images/backgroundhome.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:28:40,774 - INFO - 127.0.0.1 - - [05/Jul/2025 13:28:40] "GET /register HTTP/1.1" 200 -
+2025-07-05 13:28:40,783 - INFO - 127.0.0.1 - - [05/Jul/2025 13:28:40] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:28:40,789 - INFO - 127.0.0.1 - - [05/Jul/2025 13:28:40] "[33mGET /static/images/backgroundhome2.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:28:47,840 - INFO - 127.0.0.1 - - [05/Jul/2025 13:28:47] "GET /pickles HTTP/1.1" 200 -
+2025-07-05 13:28:47,855 - INFO - 127.0.0.1 - - [05/Jul/2025 13:28:47] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:28:47,856 - INFO - 127.0.0.1 - - [05/Jul/2025 13:28:47] "[33mGET /static/images/gongura.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:28:47,858 - INFO - 127.0.0.1 - - [05/Jul/2025 13:28:47] "[33mGET /static/images/lemon.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:28:47,862 - INFO - 127.0.0.1 - - [05/Jul/2025 13:28:47] "[33mGET /static/images/chili.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:28:47,866 - INFO - 127.0.0.1 - - [05/Jul/2025 13:28:47] "[33mGET /static/images/prawn.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:28:47,869 - INFO - 127.0.0.1 - - [05/Jul/2025 13:28:47] "[33mGET /static/images/chicken.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:30:50,397 - INFO - 127.0.0.1 - - [05/Jul/2025 13:30:50] "GET /pickles HTTP/1.1" 200 -
+2025-07-05 13:30:50,407 - INFO - 127.0.0.1 - - [05/Jul/2025 13:30:50] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:30:50,410 - INFO - 127.0.0.1 - - [05/Jul/2025 13:30:50] "[33mGET /static/images/gongura.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:30:50,413 - INFO - 127.0.0.1 - - [05/Jul/2025 13:30:50] "[33mGET /static/images/lemon.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:30:50,417 - INFO - 127.0.0.1 - - [05/Jul/2025 13:30:50] "[33mGET /static/images/chili.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:30:50,419 - INFO - 127.0.0.1 - - [05/Jul/2025 13:30:50] "[33mGET /static/images/chicken.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:30:50,426 - INFO - 127.0.0.1 - - [05/Jul/2025 13:30:50] "[33mGET /static/images/prawn.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:30:53,576 - INFO - 127.0.0.1 - - [05/Jul/2025 13:30:53] "GET /non_veg_pickles HTTP/1.1" 200 -
+2025-07-05 13:30:53,592 - INFO - 127.0.0.1 - - [05/Jul/2025 13:30:53] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:30:53,592 - INFO - 127.0.0.1 - - [05/Jul/2025 13:30:53] "[33mGET /static/images/chicken.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:30:53,594 - INFO - 127.0.0.1 - - [05/Jul/2025 13:30:53] "[33mGET /static/images/prawn.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:30:54,841 - INFO - 127.0.0.1 - - [05/Jul/2025 13:30:54] "GET /veg_pickles HTTP/1.1" 200 -
+2025-07-05 13:30:54,853 - INFO - 127.0.0.1 - - [05/Jul/2025 13:30:54] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:30:54,854 - INFO - 127.0.0.1 - - [05/Jul/2025 13:30:54] "[33mGET /static/images/mango.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:30:54,855 - INFO - 127.0.0.1 - - [05/Jul/2025 13:30:54] "[33mGET /static/images/lemon.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:31:46,637 - INFO - 127.0.0.1 - - [05/Jul/2025 13:31:46] "GET /cart HTTP/1.1" 200 -
+2025-07-05 13:31:46,650 - INFO - 127.0.0.1 - - [05/Jul/2025 13:31:46] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:31:48,372 - INFO - 127.0.0.1 - - [05/Jul/2025 13:31:48] "GET /checkout HTTP/1.1" 200 -
+2025-07-05 13:32:16,654 - INFO - 127.0.0.1 - - [05/Jul/2025 13:32:16] "GET /veg_pickles HTTP/1.1" 200 -
+2025-07-05 13:32:16,664 - INFO - 127.0.0.1 - - [05/Jul/2025 13:32:16] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:32:16,666 - INFO - 127.0.0.1 - - [05/Jul/2025 13:32:16] "[33mGET /static/images/mango.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:32:16,668 - INFO - 127.0.0.1 - - [05/Jul/2025 13:32:16] "[33mGET /static/images/lemon.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:32:20,828 - INFO - 127.0.0.1 - - [05/Jul/2025 13:32:20] "GET /snacks HTTP/1.1" 200 -
+2025-07-05 13:32:20,841 - INFO - 127.0.0.1 - - [05/Jul/2025 13:32:20] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:32:20,842 - INFO - 127.0.0.1 - - [05/Jul/2025 13:32:20] "[33mGET /static/images/murukulu.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:32:20,847 - INFO - 127.0.0.1 - - [05/Jul/2025 13:32:20] "[33mGET /static/images/mixture.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:32:20,851 - INFO - 127.0.0.1 - - [05/Jul/2025 13:32:20] "[33mGET /static/images/kajikaya.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:32:20,852 - INFO - 127.0.0.1 - - [05/Jul/2025 13:32:20] "[33mGET /static/images/chekalu.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:32:20,856 - INFO - 127.0.0.1 - - [05/Jul/2025 13:32:20] "[33mGET /static/images/boondi.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:32:20,865 - INFO - 127.0.0.1 - - [05/Jul/2025 13:32:20] "[33mGET /static/images/chekodi.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:33:37,288 - INFO - 127.0.0.1 - - [05/Jul/2025 13:33:37] "GET /snacks HTTP/1.1" 200 -
+2025-07-05 13:33:37,300 - INFO - 127.0.0.1 - - [05/Jul/2025 13:33:37] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:33:37,302 - INFO - 127.0.0.1 - - [05/Jul/2025 13:33:37] "[33mGET /static/images/murukulu.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:33:37,306 - INFO - 127.0.0.1 - - [05/Jul/2025 13:33:37] "[33mGET /static/images/mixture.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:33:37,307 - INFO - 127.0.0.1 - - [05/Jul/2025 13:33:37] "[33mGET /static/images/kajikaya.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:33:37,310 - INFO - 127.0.0.1 - - [05/Jul/2025 13:33:37] "[33mGET /static/images/chekalu.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:33:37,320 - INFO - 127.0.0.1 - - [05/Jul/2025 13:33:37] "[33mGET /static/images/boondi.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:33:37,323 - INFO - 127.0.0.1 - - [05/Jul/2025 13:33:37] "[33mGET /static/images/chekodi.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:39:59,615 - INFO - 127.0.0.1 - - [05/Jul/2025 13:39:59] "GET /snacks HTTP/1.1" 200 -
+2025-07-05 13:39:59,629 - INFO - 127.0.0.1 - - [05/Jul/2025 13:39:59] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:39:59,630 - INFO - 127.0.0.1 - - [05/Jul/2025 13:39:59] "[33mGET /static/images/murukulu.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:39:59,633 - INFO - 127.0.0.1 - - [05/Jul/2025 13:39:59] "[33mGET /static/images/mixture.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:39:59,639 - INFO - 127.0.0.1 - - [05/Jul/2025 13:39:59] "GET /static/images/kajikaya.jpg HTTP/1.1" 200 -
+2025-07-05 13:39:59,641 - INFO - 127.0.0.1 - - [05/Jul/2025 13:39:59] "[33mGET /static/images/chekalu.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:39:59,648 - INFO - 127.0.0.1 - - [05/Jul/2025 13:39:59] "[33mGET /static/images/chekodi.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:39:59,648 - INFO - 127.0.0.1 - - [05/Jul/2025 13:39:59] "GET /static/images/boondi.jpg HTTP/1.1" 200 -
+2025-07-05 13:40:02,137 - INFO - 127.0.0.1 - - [05/Jul/2025 13:40:02] "GET /pickles HTTP/1.1" 200 -
+2025-07-05 13:40:02,162 - INFO - 127.0.0.1 - - [05/Jul/2025 13:40:02] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:40:02,169 - INFO - 127.0.0.1 - - [05/Jul/2025 13:40:02] "GET /static/images/gongura.jpg HTTP/1.1" 200 -
+2025-07-05 13:40:02,173 - INFO - 127.0.0.1 - - [05/Jul/2025 13:40:02] "[33mGET /static/images/chili.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:40:02,173 - INFO - 127.0.0.1 - - [05/Jul/2025 13:40:02] "GET /static/images/lemon.jpg HTTP/1.1" 200 -
+2025-07-05 13:40:02,177 - INFO - 127.0.0.1 - - [05/Jul/2025 13:40:02] "[33mGET /static/images/chicken.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:40:02,180 - INFO - 127.0.0.1 - - [05/Jul/2025 13:40:02] "[33mGET /static/images/prawn.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:40:03,975 - INFO - 127.0.0.1 - - [05/Jul/2025 13:40:03] "GET /pickles HTTP/1.1" 200 -
+2025-07-05 13:40:03,995 - INFO - 127.0.0.1 - - [05/Jul/2025 13:40:03] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:40:03,998 - INFO - 127.0.0.1 - - [05/Jul/2025 13:40:03] "[36mGET /static/images/gongura.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:40:03,999 - INFO - 127.0.0.1 - - [05/Jul/2025 13:40:03] "[36mGET /static/images/lemon.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:40:04,002 - INFO - 127.0.0.1 - - [05/Jul/2025 13:40:04] "[33mGET /static/images/chili.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:40:04,008 - INFO - 127.0.0.1 - - [05/Jul/2025 13:40:04] "[33mGET /static/images/chicken.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:40:04,018 - INFO - 127.0.0.1 - - [05/Jul/2025 13:40:04] "[33mGET /static/images/prawn.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:40:29,991 - INFO -  * Restarting with stat
+2025-07-05 13:40:34,719 - WARNING -  * Debugger is active!
+2025-07-05 13:40:34,722 - INFO -  * Debugger PIN: 693-374-623
+2025-07-05 13:46:54,600 - INFO - 127.0.0.1 - - [05/Jul/2025 13:46:54] "GET /pickles HTTP/1.1" 200 -
+2025-07-05 13:46:54,609 - INFO - 127.0.0.1 - - [05/Jul/2025 13:46:54] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:46:54,615 - INFO - 127.0.0.1 - - [05/Jul/2025 13:46:54] "[33mGET /static/images/chili.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:46:54,619 - INFO - 127.0.0.1 - - [05/Jul/2025 13:46:54] "[33mGET /static/images/chicken.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:46:54,623 - INFO - 127.0.0.1 - - [05/Jul/2025 13:46:54] "[33mGET /static/images/prawn.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:46:54,861 - INFO - 127.0.0.1 - - [05/Jul/2025 13:46:54] "[36mGET /static/images/gongura.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:46:54,864 - INFO - 127.0.0.1 - - [05/Jul/2025 13:46:54] "[36mGET /static/images/lemon.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:47:09,900 - INFO -  * Restarting with stat
+2025-07-05 13:47:14,545 - WARNING -  * Debugger is active!
+2025-07-05 13:47:14,547 - INFO -  * Debugger PIN: 693-374-623
+2025-07-05 13:47:17,978 - INFO -  * Restarting with stat
+2025-07-05 13:47:22,570 - WARNING -  * Debugger is active!
+2025-07-05 13:47:22,572 - INFO -  * Debugger PIN: 693-374-623
+2025-07-05 13:47:25,975 - INFO -  * Restarting with stat
+2025-07-05 13:47:30,583 - WARNING -  * Debugger is active!
+2025-07-05 13:47:30,585 - INFO -  * Debugger PIN: 693-374-623
+2025-07-05 13:47:30,652 - INFO - 127.0.0.1 - - [05/Jul/2025 13:47:30] "GET /pickles HTTP/1.1" 200 -
+2025-07-05 13:47:30,661 - INFO - 127.0.0.1 - - [05/Jul/2025 13:47:30] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:47:30,669 - INFO - 127.0.0.1 - - [05/Jul/2025 13:47:30] "[33mGET /static/images/chili%20pickle.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:47:30,670 - INFO - 127.0.0.1 - - [05/Jul/2025 13:47:30] "[33mGET /static/images/chicken.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:47:30,672 - INFO - 127.0.0.1 - - [05/Jul/2025 13:47:30] "[33mGET /static/images/prawn.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:47:30,749 - INFO - 127.0.0.1 - - [05/Jul/2025 13:47:30] "[36mGET /static/images/lemon.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:47:30,750 - INFO - 127.0.0.1 - - [05/Jul/2025 13:47:30] "[36mGET /static/images/gongura.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:47:33,221 - INFO - 127.0.0.1 - - [05/Jul/2025 13:47:33] "GET /pickles HTTP/1.1" 200 -
+2025-07-05 13:47:33,232 - INFO - 127.0.0.1 - - [05/Jul/2025 13:47:33] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:47:33,240 - INFO - 127.0.0.1 - - [05/Jul/2025 13:47:33] "[36mGET /static/images/gongura.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:47:33,241 - INFO - 127.0.0.1 - - [05/Jul/2025 13:47:33] "[33mGET /static/images/chili%20pickle.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:47:33,249 - INFO - 127.0.0.1 - - [05/Jul/2025 13:47:33] "[33mGET /static/images/prawn.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:47:33,249 - INFO - 127.0.0.1 - - [05/Jul/2025 13:47:33] "[36mGET /static/images/lemon.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:47:33,253 - INFO - 127.0.0.1 - - [05/Jul/2025 13:47:33] "[33mGET /static/images/chicken.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:48:11,320 - INFO -  * Restarting with stat
+2025-07-05 13:48:16,009 - WARNING -  * Debugger is active!
+2025-07-05 13:48:16,011 - INFO -  * Debugger PIN: 693-374-623
+2025-07-05 13:48:24,727 - INFO -  * Restarting with stat
+2025-07-05 13:48:29,348 - WARNING -  * Debugger is active!
+2025-07-05 13:48:29,350 - INFO -  * Debugger PIN: 693-374-623
+2025-07-05 13:48:29,414 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:29] "GET /pickles HTTP/1.1" 200 -
+2025-07-05 13:48:29,416 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:29] "GET /pickles HTTP/1.1" 200 -
+2025-07-05 13:48:29,424 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:29] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:48:29,434 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:29] "[33mGET /static/images/prawn.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:48:29,561 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:29] "[36mGET /static/images/gongura.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:48:29,567 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:29] "GET /static/images/chickenpickle.jpg HTTP/1.1" 200 -
+2025-07-05 13:48:29,568 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:29] "GET /static/images/chilipickle.jpg HTTP/1.1" 200 -
+2025-07-05 13:48:29,568 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:29] "[36mGET /static/images/lemon.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:48:33,471 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:33] "GET /veg_pickles HTTP/1.1" 200 -
+2025-07-05 13:48:33,480 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:33] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:48:33,484 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:33] "[33mGET /static/images/mango.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:48:33,487 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:33] "[36mGET /static/images/lemon.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:48:34,955 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:34] "GET /non_veg_pickles HTTP/1.1" 200 -
+2025-07-05 13:48:34,975 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:34] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:48:34,977 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:34] "[33mGET /static/images/chicken.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:48:34,978 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:34] "[33mGET /static/images/prawn.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:48:39,362 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:39] "GET /pickles HTTP/1.1" 200 -
+2025-07-05 13:48:39,375 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:39] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:48:39,378 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:39] "[36mGET /static/images/lemon.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:48:39,379 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:39] "[36mGET /static/images/gongura.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:48:39,383 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:39] "[36mGET /static/images/chilipickle.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:48:39,388 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:39] "[33mGET /static/images/prawn.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:48:39,389 - INFO - 127.0.0.1 - - [05/Jul/2025 13:48:39] "[36mGET /static/images/chickenpickle.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:49:13,319 - INFO -  * Restarting with stat
+2025-07-05 13:49:17,959 - WARNING -  * Debugger is active!
+2025-07-05 13:49:17,962 - INFO -  * Debugger PIN: 693-374-623
+2025-07-05 13:49:18,728 - INFO - 127.0.0.1 - - [05/Jul/2025 13:49:18] "GET /non_veg_pickles HTTP/1.1" 200 -
+2025-07-05 13:49:18,744 - INFO - 127.0.0.1 - - [05/Jul/2025 13:49:18] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:49:18,747 - INFO - 127.0.0.1 - - [05/Jul/2025 13:49:18] "[33mGET /static/images/prawn.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:49:18,852 - INFO - 127.0.0.1 - - [05/Jul/2025 13:49:18] "[36mGET /static/images/chickenpickle.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:49:19,747 - INFO - 127.0.0.1 - - [05/Jul/2025 13:49:19] "GET /non_veg_pickles HTTP/1.1" 200 -
+2025-07-05 13:49:19,767 - INFO - 127.0.0.1 - - [05/Jul/2025 13:49:19] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:49:19,770 - INFO - 127.0.0.1 - - [05/Jul/2025 13:49:19] "[33mGET /static/images/prawn.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:49:19,770 - INFO - 127.0.0.1 - - [05/Jul/2025 13:49:19] "[36mGET /static/images/chickenpickle.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:50:39,967 - INFO - 127.0.0.1 - - [05/Jul/2025 13:50:39] "GET /non_veg_pickles HTTP/1.1" 200 -
+2025-07-05 13:50:39,984 - INFO - 127.0.0.1 - - [05/Jul/2025 13:50:39] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:50:39,986 - INFO - 127.0.0.1 - - [05/Jul/2025 13:50:39] "[36mGET /static/images/chickenpickle.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:50:39,989 - INFO - 127.0.0.1 - - [05/Jul/2025 13:50:39] "[33mGET /static/images/prawn.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:51:11,891 - INFO - 127.0.0.1 - - [05/Jul/2025 13:51:11] "GET /non_veg_pickles HTTP/1.1" 200 -
+2025-07-05 13:51:11,901 - INFO - 127.0.0.1 - - [05/Jul/2025 13:51:11] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:51:11,903 - INFO - 127.0.0.1 - - [05/Jul/2025 13:51:11] "[36mGET /static/images/chickenpickle.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:51:11,904 - INFO - 127.0.0.1 - - [05/Jul/2025 13:51:11] "GET /static/images/prawn.jpg HTTP/1.1" 200 -
+2025-07-05 13:51:19,381 - INFO - 127.0.0.1 - - [05/Jul/2025 13:51:19] "GET /veg_pickles HTTP/1.1" 200 -
+2025-07-05 13:51:19,395 - INFO - 127.0.0.1 - - [05/Jul/2025 13:51:19] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:51:19,397 - INFO - 127.0.0.1 - - [05/Jul/2025 13:51:19] "[33mGET /static/images/mango.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:51:19,403 - INFO - 127.0.0.1 - - [05/Jul/2025 13:51:19] "[36mGET /static/images/lemon.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:53:05,915 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:05] "GET /veg_pickles HTTP/1.1" 200 -
+2025-07-05 13:53:05,929 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:05] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:53:05,936 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:05] "GET /static/images/mango.jpg HTTP/1.1" 200 -
+2025-07-05 13:53:05,937 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:05] "[36mGET /static/images/lemon.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:53:10,076 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:10] "GET /pickles HTTP/1.1" 200 -
+2025-07-05 13:53:10,110 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:10] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:53:10,114 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:10] "[36mGET /static/images/chickenpickle.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:53:10,114 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:10] "[36mGET /static/images/lemon.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:53:10,115 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:10] "[36mGET /static/images/gongura.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:53:10,123 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:10] "[36mGET /static/images/chilipickle.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:53:10,124 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:10] "[36mGET /static/images/prawn.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:53:11,774 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:11] "GET /non_veg_pickles HTTP/1.1" 200 -
+2025-07-05 13:53:11,787 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:11] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:53:11,793 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:11] "[36mGET /static/images/chickenpickle.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:53:11,796 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:11] "[36mGET /static/images/prawn.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:53:13,160 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:13] "GET /veg_pickles HTTP/1.1" 200 -
+2025-07-05 13:53:13,177 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:13] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:53:13,180 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:13] "[36mGET /static/images/mango.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:53:13,182 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:13] "[36mGET /static/images/lemon.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:53:14,548 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:14] "GET /snacks HTTP/1.1" 200 -
+2025-07-05 13:53:14,558 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:14] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:53:14,560 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:14] "[33mGET /static/images/mixture.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:53:14,561 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:14] "GET /static/images/murukulu.jpg HTTP/1.1" 200 -
+2025-07-05 13:53:14,566 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:14] "[36mGET /static/images/kajikaya.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:53:14,569 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:14] "[33mGET /static/images/chekalu.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:53:14,574 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:14] "[33mGET /static/images/chekodi.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:53:14,576 - INFO - 127.0.0.1 - - [05/Jul/2025 13:53:14] "[36mGET /static/images/boondi.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:56:45,778 - INFO - 127.0.0.1 - - [05/Jul/2025 13:56:45] "GET /snacks HTTP/1.1" 200 -
+2025-07-05 13:56:45,795 - INFO - 127.0.0.1 - - [05/Jul/2025 13:56:45] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:56:45,800 - INFO - 127.0.0.1 - - [05/Jul/2025 13:56:45] "[33mGET /static/images/mixture.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:56:45,806 - INFO - 127.0.0.1 - - [05/Jul/2025 13:56:45] "[33mGET /static/images/chekalu.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:56:45,808 - INFO - 127.0.0.1 - - [05/Jul/2025 13:56:45] "[36mGET /static/images/murukulu.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:56:45,810 - INFO - 127.0.0.1 - - [05/Jul/2025 13:56:45] "[36mGET /static/images/kajikaya.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:56:45,818 - INFO - 127.0.0.1 - - [05/Jul/2025 13:56:45] "[36mGET /static/images/boondi.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:56:45,819 - INFO - 127.0.0.1 - - [05/Jul/2025 13:56:45] "[33mGET /static/images/chekodi.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:57:36,982 - INFO -  * Restarting with stat
+2025-07-05 13:57:41,661 - WARNING -  * Debugger is active!
+2025-07-05 13:57:41,663 - INFO -  * Debugger PIN: 693-374-623
+2025-07-05 13:57:52,421 - INFO -  * Restarting with stat
+2025-07-05 13:57:57,191 - WARNING -  * Debugger is active!
+2025-07-05 13:57:57,194 - INFO -  * Debugger PIN: 693-374-623
+2025-07-05 13:57:57,277 - INFO - 127.0.0.1 - - [05/Jul/2025 13:57:57] "GET /snacks HTTP/1.1" 200 -
+2025-07-05 13:57:57,282 - INFO - 127.0.0.1 - - [05/Jul/2025 13:57:57] "GET /snacks HTTP/1.1" 200 -
+2025-07-05 13:57:57,294 - INFO - 127.0.0.1 - - [05/Jul/2025 13:57:57] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:57:57,310 - INFO - 127.0.0.1 - - [05/Jul/2025 13:57:57] "[33mGET /static/images/chekodi.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:57:57,497 - INFO - 127.0.0.1 - - [05/Jul/2025 13:57:57] "[36mGET /static/images/murukulu.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:57:57,509 - INFO - 127.0.0.1 - - [05/Jul/2025 13:57:57] "GET /static/images/mixture.jpg HTTP/1.1" 200 -
+2025-07-05 13:57:57,512 - INFO - 127.0.0.1 - - [05/Jul/2025 13:57:57] "GET /static/images/chekkalu.jpg HTTP/1.1" 200 -
+2025-07-05 13:57:57,512 - INFO - 127.0.0.1 - - [05/Jul/2025 13:57:57] "[36mGET /static/images/kajikaya.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:57:57,513 - INFO - 127.0.0.1 - - [05/Jul/2025 13:57:57] "[36mGET /static/images/boondi.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:58:27,473 - INFO -  * Restarting with stat
+2025-07-05 13:58:32,111 - WARNING -  * Debugger is active!
+2025-07-05 13:58:32,113 - INFO -  * Debugger PIN: 693-374-623
+2025-07-05 13:58:32,181 - INFO - 127.0.0.1 - - [05/Jul/2025 13:58:32] "GET /snacks HTTP/1.1" 200 -
+2025-07-05 13:58:32,185 - INFO - 127.0.0.1 - - [05/Jul/2025 13:58:32] "GET /snacks HTTP/1.1" 200 -
+2025-07-05 13:58:32,185 - INFO - 127.0.0.1 - - [05/Jul/2025 13:58:32] "GET /snacks HTTP/1.1" 200 -
+2025-07-05 13:58:32,197 - INFO - 127.0.0.1 - - [05/Jul/2025 13:58:32] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:58:32,439 - INFO - 127.0.0.1 - - [05/Jul/2025 13:58:32] "[36mGET /static/images/mixture.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:58:32,450 - INFO - 127.0.0.1 - - [05/Jul/2025 13:58:32] "[36mGET /static/images/chekkalu.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:58:32,453 - INFO - 127.0.0.1 - - [05/Jul/2025 13:58:32] "[36mGET /static/images/murukulu.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:58:32,456 - INFO - 127.0.0.1 - - [05/Jul/2025 13:58:32] "GET /static/images/chekodi.jpg HTTP/1.1" 200 -
+2025-07-05 13:58:32,461 - INFO - 127.0.0.1 - - [05/Jul/2025 13:58:32] "[36mGET /static/images/boondi.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:58:32,462 - INFO - 127.0.0.1 - - [05/Jul/2025 13:58:32] "[36mGET /static/images/kajikaya.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:59:33,906 - INFO -  * Restarting with stat
+2025-07-05 13:59:38,556 - WARNING -  * Debugger is active!
+2025-07-05 13:59:38,558 - INFO -  * Debugger PIN: 693-374-623
+2025-07-05 13:59:38,625 - INFO - 127.0.0.1 - - [05/Jul/2025 13:59:38] "GET /snacks HTTP/1.1" 200 -
+2025-07-05 13:59:38,634 - INFO - 127.0.0.1 - - [05/Jul/2025 13:59:38] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 13:59:38,644 - INFO - 127.0.0.1 - - [05/Jul/2025 13:59:38] "[33mGET /static/images/chekodi.jpg HTTP/1.1[0m" 404 -
+2025-07-05 13:59:38,805 - INFO - 127.0.0.1 - - [05/Jul/2025 13:59:38] "[36mGET /static/images/mixture.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:59:38,808 - INFO - 127.0.0.1 - - [05/Jul/2025 13:59:38] "[36mGET /static/images/murukulu.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:59:38,810 - INFO - 127.0.0.1 - - [05/Jul/2025 13:59:38] "[36mGET /static/images/kajikaya.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:59:38,811 - INFO - 127.0.0.1 - - [05/Jul/2025 13:59:38] "[36mGET /static/images/chekkalu.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:59:38,812 - INFO - 127.0.0.1 - - [05/Jul/2025 13:59:38] "[36mGET /static/images/boondi.jpg HTTP/1.1[0m" 304 -
+2025-07-05 13:59:50,530 - INFO -  * Restarting with stat
+2025-07-05 13:59:55,103 - WARNING -  * Debugger is active!
+2025-07-05 13:59:55,106 - INFO -  * Debugger PIN: 693-374-623
+2025-07-05 13:59:59,621 - INFO -  * Restarting with stat
+2025-07-05 14:00:04,343 - WARNING -  * Debugger is active!
+2025-07-05 14:00:04,345 - INFO -  * Debugger PIN: 693-374-623
+2025-07-05 14:00:04,410 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:04] "GET /snacks HTTP/1.1" 200 -
+2025-07-05 14:00:04,420 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:04] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 14:00:04,430 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:04] "[33mGET /static/images/chakodi.jpg HTTP/1.1[0m" 404 -
+2025-07-05 14:00:04,592 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:04] "[36mGET /static/images/murukulu.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:04,595 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:04] "[36mGET /static/images/mixture.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:04,595 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:04] "[36mGET /static/images/chekkalu.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:04,596 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:04] "[36mGET /static/images/kajikaya.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:04,597 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:04] "[36mGET /static/images/boondi.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:08,872 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:08] "GET /snacks HTTP/1.1" 200 -
+2025-07-05 14:00:08,886 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:08] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 14:00:08,889 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:08] "[36mGET /static/images/murukulu.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:08,895 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:08] "[36mGET /static/images/kajikaya.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:08,898 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:08] "[36mGET /static/images/mixture.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:08,900 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:08] "[36mGET /static/images/chekkalu.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:08,904 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:08] "[36mGET /static/images/boondi.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:08,906 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:08] "[33mGET /static/images/chakodi.jpg HTTP/1.1[0m" 404 -
+2025-07-05 14:00:32,791 - INFO -  * Restarting with stat
+2025-07-05 14:00:37,474 - WARNING -  * Debugger is active!
+2025-07-05 14:00:37,476 - INFO -  * Debugger PIN: 693-374-623
+2025-07-05 14:00:44,101 - INFO -  * Restarting with stat
+2025-07-05 14:00:48,829 - WARNING -  * Debugger is active!
+2025-07-05 14:00:48,831 - INFO -  * Debugger PIN: 693-374-623
+2025-07-05 14:00:48,898 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:48] "GET /snacks HTTP/1.1" 200 -
+2025-07-05 14:00:48,909 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:48] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 14:00:49,149 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:49] "[36mGET /static/images/mixture.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:49,150 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:49] "[36mGET /static/images/kajikaya.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:49,153 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:49] "[36mGET /static/images/murukulu.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:49,158 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:49] "[36mGET /static/images/chekkalu.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:49,160 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:49] "[36mGET /static/images/boondi.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:49,161 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:49] "GET /static/images/chekodi.jpg HTTP/1.1" 200 -
+2025-07-05 14:00:52,247 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:52] "GET /about HTTP/1.1" 200 -
+2025-07-05 14:00:52,258 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:52] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 14:00:54,820 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:54] "GET / HTTP/1.1" 200 -
+2025-07-05 14:00:54,830 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:54] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 14:00:54,838 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:54] "[33mGET /static/images/background.jpg HTTP/1.1[0m" 404 -
+2025-07-05 14:00:56,916 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:56] "GET /snacks HTTP/1.1" 200 -
+2025-07-05 14:00:56,932 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:56] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 14:00:56,938 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:56] "[36mGET /static/images/murukulu.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:56,939 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:56] "[36mGET /static/images/mixture.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:56,941 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:56] "[36mGET /static/images/kajikaya.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:56,948 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:56] "[36mGET /static/images/chekkalu.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:56,949 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:56] "[36mGET /static/images/boondi.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:56,950 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:56] "[36mGET /static/images/chekodi.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:58,638 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:58] "[32mGET /add_to_cart/8 HTTP/1.1[0m" 302 -
+2025-07-05 14:00:58,646 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:58] "GET /snacks HTTP/1.1" 200 -
+2025-07-05 14:00:58,663 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:58] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 14:00:58,668 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:58] "[36mGET /static/images/kajikaya.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:58,668 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:58] "[36mGET /static/images/mixture.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:58,671 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:58] "[36mGET /static/images/murukulu.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:58,673 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:58] "[36mGET /static/images/chekkalu.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:58,677 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:58] "[36mGET /static/images/boondi.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:00:58,679 - INFO - 127.0.0.1 - - [05/Jul/2025 14:00:58] "[36mGET /static/images/chekodi.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:01:05,603 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:05] "[32mGET /add_to_cart/7 HTTP/1.1[0m" 302 -
+2025-07-05 14:01:05,613 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:05] "GET /snacks HTTP/1.1" 200 -
+2025-07-05 14:01:05,637 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:05] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 14:01:05,654 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:05] "[36mGET /static/images/murukulu.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:01:05,654 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:05] "[36mGET /static/images/mixture.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:01:05,659 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:05] "[36mGET /static/images/kajikaya.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:01:05,662 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:05] "[36mGET /static/images/chekkalu.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:01:05,667 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:05] "[36mGET /static/images/boondi.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:01:05,669 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:05] "[36mGET /static/images/chekodi.jpg HTTP/1.1[0m" 304 -
+2025-07-05 14:01:08,773 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:08] "GET /cart HTTP/1.1" 200 -
+2025-07-05 14:01:08,784 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:08] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 14:01:10,767 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:10] "GET /checkout HTTP/1.1" 200 -
+2025-07-05 14:01:10,777 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:10] "[33mGET /static/images/images/kajikaya.jpg HTTP/1.1[0m" 404 -
+2025-07-05 14:01:10,777 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:10] "[33mGET /static/images/images/mixture.jpg HTTP/1.1[0m" 404 -
+2025-07-05 14:01:11,848 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:11] "[32mPOST /checkout HTTP/1.1[0m" 302 -
+2025-07-05 14:01:11,915 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:11] "[35m[1mGET /order_success HTTP/1.1[0m" 500 -
+2025-07-05 14:01:11,931 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:11] "GET /order_success?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-07-05 14:01:11,931 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:11] "GET /order_success?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-07-05 14:01:11,941 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:11] "GET /order_success?__debugger__=yes&cmd=resource&f=console.png&s=aZ3CpIdPeOMHAQLiyFjI HTTP/1.1" 200 -
+2025-07-05 14:01:11,965 - INFO - 127.0.0.1 - - [05/Jul/2025 14:01:11] "GET /order_success?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-07-05 14:03:33,824 - INFO -  * Restarting with stat
+2025-07-05 14:03:38,655 - WARNING -  * Debugger is active!
+2025-07-05 14:03:38,657 - INFO -  * Debugger PIN: 693-374-623
+2025-07-05 14:03:38,721 - INFO - 127.0.0.1 - - [05/Jul/2025 14:03:38] "GET /order_success HTTP/1.1" 200 -
+2025-07-05 14:03:38,722 - INFO - 127.0.0.1 - - [05/Jul/2025 14:03:38] "GET /order_success HTTP/1.1" 200 -
+2025-07-05 14:03:51,037 - INFO - 127.0.0.1 - - [05/Jul/2025 14:03:51] "GET / HTTP/1.1" 200 -
+2025-07-05 14:03:51,050 - INFO - 127.0.0.1 - - [05/Jul/2025 14:03:51] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-07-05 14:03:51,057 - INFO - 127.0.0.1 - - [05/Jul/2025 14:03:51] "[33mGET /static/images/background.jpg HTTP/1.1[0m" 404 -
